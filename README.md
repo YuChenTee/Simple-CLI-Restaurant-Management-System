@@ -1,5 +1,6 @@
 **Simple Restaurant Management System in Java (Command-line Interface)**
 
+
 This repository contains a Java implementation of a simple restaurant management system. The system includes the following components:
 
 **Customer**: Allows customers to view the menu, place orders, and view their bill.
@@ -8,6 +9,7 @@ This repository contains a Java implementation of a simple restaurant management
 
 **Chef**: Allows chefs to view incoming orders and mark them as prepared.
 
+
 **Features**:
 
 **Menu Management**: Dynamically manages the restaurant menu, including items, prices, and descriptions.
@@ -15,6 +17,7 @@ This repository contains a Java implementation of a simple restaurant management
 **Order Management**: Facilitates placing orders, tracking order status, and generating bills.
 
 **Kitchen Integration**: Enables chefs to view orders and update their preparation status.
+
 
 **Classes**:
 
